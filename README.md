@@ -1,2 +1,2 @@
-# algorith
+# algorithm
 Грокаем алгоритмы
