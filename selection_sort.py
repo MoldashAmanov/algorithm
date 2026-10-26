@@ -14,4 +14,4 @@ def selestion_sort(arr):
         newArr.append(arr.pop(smallest)) # Добавляет его в новый массив
     return newArr
 
-print(selestion_sort([23, 4, 64, 34, 12, 78]))
+print(selestion_sort([23, 4, 64, 34, 12, 78, 39]))
